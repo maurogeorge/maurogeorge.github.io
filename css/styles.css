@@ -102,7 +102,7 @@ header h1 span {
 /* =Responsive
  * -------------------------------------------------------------- */
 
-@media only screen and (max-width: 767px), only screen and (max-width: 767px) and (orientation: portrait) {
+@media only screen and (max-width: 767px), only screen and (max-width: 767px) and (orientation: portrait), only screen and (max-width:960px) {
 
   #wrapper {
     width:90%;
