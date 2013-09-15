@@ -106,11 +106,10 @@ header h1 span {
 
   #wrapper {
     width:90%;
-    margin: auto;
+    margin: 10% auto;
     position: static;
     overflow: visible;
   }
-
 
   header h1 {
     line-height: 0.9em;
@@ -118,7 +117,7 @@ header h1 span {
 
   #profile-picture {
     float: none; 
-    margin: 0 auto;
+    margin: 0 auto 30px;
     display: block;
   }
 
